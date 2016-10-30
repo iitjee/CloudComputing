@@ -1,0 +1,49 @@
+
+Cloud Computing is a revolution in IT that's changing the way we consume computing services.
+
+
+
+Characteristics:
+1) On-Demand self service
+2) Ubiqutous network access
+3) Resource Pooling 
+4) Rapid elasticity
+5) Pay-per-Use
+
+
+-> Cloud computing has three Delivery Models:
+1) SaaS : SalesForce        (Finished Application that you rent and customize)                            WebBrowser
+2) PaaS : Google App Engine (Cloud version of Application Development, Deployment and testing platform)   Deployment
+3) IaaS :                   (Deployment platform that abstracts your infrastructure(sw))                  Data Centers
+
+IaaS is the fastest growing. In this a 3rd party provider hosts hw, sw, servers, storage, and other infrastructure 
+components  on behalf of the end user. Provides elastic-scaling(i.e scaling up or scaling down depending on the needs)
+eg: AWS, Google Cloud Platform, Microsoft Azure 
+
+SaaS    CRM(Content Resource Management) once see https://www.lynda.com/Cloud-Computing-tutorials/SaaS-clouds/508619/546863-4.html
+
+PaaS: A new trend is to integrate and combine both PaaS and IaaS. (https://www.lynda.com/Cloud-Computing-tutorials/PaaS-clouds/508619/546864-4.html)
+eg: AWS' Elastic Beanstalk, Microsoft Azure, Google App Engine
+
+-> and has three Deployment Models:
+1) Private (More Secure) : Computing is done in your premises => You'll have more security but you are limited to running on your Hw and Sw
+2) Public (Elastic Scaling) : Less secure but you'll leverage the power of 
+3) Hybrid (Best of Private + Public)
+
+Very recently, Besides IT, technologies such as Machine Learning and Big Data are entering the field.
+
+Remember, theresn't a one-cloud fits-all solution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
