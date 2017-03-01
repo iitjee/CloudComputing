@@ -1,0 +1,1 @@
+They basically run background services as a service. Think of it as being able to use a Windows service without the hassle of setting it up and managing the underlying infrastructure and operating system.
